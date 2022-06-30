@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.App {
+  text-align: center;
+  width: 30rem;
+  min-height: 80vh;
+  border: 2px black solid;
+}
+
+
+.border {
+  border: 2px black solid;
+}
+
+button {
+  display: inline-block;
+}
+
+.compo {
+  width: 70%;
+  margin: auto;
+  /*height: 50px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; */
+}
+
+.fcompo {
+  width: 70%;
+  margin: auto;
+}
+h2 {
+  color: red;
+}

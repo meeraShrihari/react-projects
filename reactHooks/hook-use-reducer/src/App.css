@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.App {
+  text-align: center;
+  /* min-width: 100%; */
+  padding: 20px;
+}
+
+.border {
+  border: 2px solid #ccc;
+}
+
+button {
+  padding: 5px 10px;
+  font-size: 1rem;
+  margin: 20px;
+}
+
+ul {
+  margin: 10px;
+}
+
+li {
+  list-style-type: none;
+  margin: 0.2rem;
+  font-weight: lighter;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contact {
+  color: rgb(157, 153, 153);
+  background-color: rgba(128, 128, 128, 0.116);
+  padding: 0.5rem;
+  min-width: 300px;
+}
+

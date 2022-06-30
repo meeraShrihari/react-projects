@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: antiquewhite;
+}
+
+.App {
+  text-align: center;
+  min-height: 500px;
+  width: 80%;
+  margin: auto;
+  background-color: rgb(130, 199, 199);
+
+}
+
+.border {
+  border: 1px black solid;
+}
+
+.btns {
+  margin-top: 2rem;
+}
+
+.btns button {
+  font-size: 1.5rem;
+  color: rgba(91, 89, 89, 0.726);
+  padding: 5px 10px;
+  border: none;
+  background-color: aliceblue;
+  box-shadow: 2px 2px 5px rgba(91, 89, 89, 0.726);
+  margin: 10px;
+  border-radius: 2%;
+  cursor: pointer;
+  transition: transform 2sec ease-in-out;
+}
+
+.btns button:active {
+  transform: translateY(1px);
+}
+
+.btns button:hover {
+  background-color: beige;
+}

@@ -1,0 +1,84 @@
+{
+  "contacts": [
+    {
+      "id": "7f03c1fd-5782-4999-8c0f-d1e7b498cd0b",
+      "name": "Renuka",
+      "email": "renuka@yahoo.com"
+    },
+    {
+      "id": "1af623ee-dcd7-4a7a-b0e2-c0ca8119453f",
+      "name": "Mythili",
+      "email": "mythili.shrihari@gmail.com"
+    },
+    {
+      "id": "d1e4b896-2e77-4e4f-92ea-da832477daba",
+      "name": "Bhaskaran",
+      "email": "baskaran.vay@gmail.com"
+    },
+    {
+      "id": "3343eb8f-cc46-4e84-9427-f5e09a99852d",
+      "name": "Vani",
+      "email": "vani@gmail.com"
+    },
+    {
+      "id": "d68d95b4-e527-4a6d-9ec1-c3004937676b",
+      "name": "Sreejith",
+      "email": "sreejith_v@yahoo.com"
+    },
+    {
+      "id": "77fc257f-f2c8-4b46-b6c0-aad86e50d664",
+      "name": "Avantika",
+      "email": "avantika@yahoo.com"
+    },
+    {
+      "id": "45dd1804-aa71-4ed0-ae7e-7d944fa05a3c",
+      "name": "Deepthi",
+      "email": "deepthi@gmail.com"
+    },
+    {
+      "id": "c848118a-71f9-4723-bd8c-7e5c7d3847c4",
+      "name": "Mike",
+      "email": "mike_m@yahoo.com"
+    },
+    {
+      "id": "41fbb059-913e-413d-b979-9692732db689",
+      "name": "Aarav",
+      "email": "aarav@gmail.com"
+    },
+    {
+      "id": "10903ff2-f7b5-4220-b9ff-f58f491dadb7",
+      "name": "Shrihari",
+      "email": "shrihari_vm@yahoo.com"
+    },
+    {
+      "id": "e6be6501-f98a-4c0b-ba10-54d640f37f60",
+      "name": "Meera",
+      "email": "meera.shrihari@yahoo.com"
+    },
+    {
+      "id": "9773e6ed-d093-4b89-91d2-0e42facf4183",
+      "name": "Deepthi",
+      "email": "deepthi@gmail.com"
+    },
+    {
+      "id": "76a3d87e-a262-4156-b726-9dc01872829f",
+      "name": "sadsadfadf",
+      "email": "asdf@gmail.com"
+    },
+    {
+      "id": "4a59a1f3-7d4d-44cc-8aa0-460e652293b3",
+      "name": "John Smith",
+      "email": "john@gmail.com"
+    },
+    {
+      "id": "7b46f224-9fe4-4a63-bcc2-7fa0aeb26a88",
+      "name": "John",
+      "email": "john@gmail.com"
+    },
+    {
+      "id": "a5f371da-02fa-4cfd-970f-9bcfef76fe79",
+      "name": "Hari",
+      "email": "hari@yahoo.com"
+    }
+  ]
+}
